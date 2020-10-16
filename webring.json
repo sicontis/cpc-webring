@@ -59,6 +59,16 @@
             "name": "Design Taxi",
             "desc": "This is an online magazine that focuses on lots of areas in design – including furniture design. Design topics include logos, social media, illustration, photography, creativity, advertising, product design, typography, apps, and more.",
             "url": "https://designtaxi.com/"
+        },
+        {
+            "name": "Abduzeedo",
+            "desc": "Here’s a blog about design that has lots of articles for inspiration. It was founded in 2006 by Fabio Sasso and Fabiano Meneghetti. It has useful tutorials for the most used applications with a special attention to Photoshop and Illustrator",
+            "url": "https://abduzeedo.com/"
+        },
+        {
+            "name": "David Walsh",
+            "desc": "This is the blog of JavaScript and HTML5 Consultant David Walsh. It contains lots of articles and tutorials that primarily focus on front-end technology.",
+            "url": "https://davidwalsh.name/"
         }
     ]
 }
