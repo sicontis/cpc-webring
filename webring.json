@@ -54,6 +54,11 @@
             "name": "Codrops",
             "desc": "This design blog is from freelance web designers and developers Manoela Ilic and Pedro Botelho.  It started as an experimental blog and became a place for sharing the passion for web design and web development. ",
             "url": "http://tympanus.net/codrops/"
+        },
+        {
+            "name": "Design Taxi",
+            "desc": "This is an online magazine that focuses on lots of areas in design – including furniture design. Design topics include logos, social media, illustration, photography, creativity, advertising, product design, typography, apps, and more.",
+            "url": "https://designtaxi.com/"
         }
     ]
 }
