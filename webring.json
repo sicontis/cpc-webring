@@ -1,0 +1,49 @@
+{
+    "sites": [
+        {
+            "name": "Web Designer Depot",
+            "desc": "Founded by web designer Walter Apai, it’s a collaboration between designers worldwide who contribute features, articles, and tutorials to help grow the design community.",
+            "url": "https://www.webdesignerdepot.com/"
+        },
+        {
+            "name": "DesignModo",
+            "desc": "This site contains lots of informational articles and tools for designers and developers. Articles include information on web design, web development, WordPress, tips, tutorials, inspiration, etc.",
+            "url": "https://designmodo.com/"
+        },
+        {
+            "name": "CSS-Tricks",
+            "desc": "Founded by Chris Coyier, this site originally covered CSS and now has a team of 11 that covers every aspect of web design and development.",
+            "url": "https://css-tricks.com/"
+        },
+        {
+            "name": "Hongkiat",
+            "desc": "Since 2007 this site has produced articles, tutorials, recommended tools, tips and tricks, and more for designers, developers, techies, and bloggers.",
+            "url": "https://www.hongkiat.com/blog/"
+        },
+        {
+            "name": "Smashing Magazine",
+            "desc": "Founded by Vitaly Friedman and Sven Lennartz, this site produces articles, tutorials, and more for designers and developers.",
+            "url": "https://www.smashingmagazine.com/"
+        },
+        {
+            "name": "Vandelay Design",
+            "desc": "The focus of this site is to equip creatives, small business owners, and entrepreneurs with the tools to develop their business ideas. They have lots of articles on web design, writing, web development, and more.",
+            "url": "https://www.vandelaydesign.com/"
+        },
+        {
+            "name": "SpeckyBoy",
+            "desc": "Paul Andrew launched this site in October 2007 as a personal freelance web design homepage. It’s now grown into a web design magazine. It has tons of tutorials, resources, time-saving techniques, and even inspirational art.",
+            "url": "https://speckyboy.com/"
+        },
+        {
+            "name": "A List Apart",
+            "desc": "This site launched way back in 1998 by Jeffrey Zeldman. Articles focus on web design and are geared toward designers, developers, architects, specialists, strategists, project managers, and writers.",
+            "url": "https://alistapart.com/"
+        },
+        {
+            "name": "DesignShack",
+            "desc": "This design website produces many articles that showcase inspiring web design. They also produce resources and tutorials. They focus on design and catalogue the greatest projects on the web.",
+            "url": "https://designshack.net/"
+        }
+    ]
+}
