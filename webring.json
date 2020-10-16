@@ -44,6 +44,16 @@
             "name": "DesignShack",
             "desc": "This design website produces many articles that showcase inspiring web design. They also produce resources and tutorials. They focus on design and catalogue the greatest projects on the web.",
             "url": "https://designshack.net/"
+        },
+        {
+            "name": "CreativeBloq",
+            "desc": "This is a daily online magazine from FutureNet that produces articles about web design, graphic design, 3D, digital art, audiovisual, typography, branding, illustration, UX, logo design, branding, mobile, and more.",
+            "url": "https://www.creativebloq.com/"
+        },
+        {
+            "name": "Codrops",
+            "desc": "This design blog is from freelance web designers and developers Manoela Ilic and Pedro Botelho.  It started as an experimental blog and became a place for sharing the passion for web design and web development. ",
+            "url": "http://tympanus.net/codrops/"
         }
     ]
 }
