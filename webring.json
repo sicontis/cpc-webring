@@ -69,6 +69,31 @@
             "name": "David Walsh",
             "desc": "This is the blog of JavaScript and HTML5 Consultant David Walsh. It contains lots of articles and tutorials that primarily focus on front-end technology.",
             "url": "https://davidwalsh.name/"
+        },
+        {
+            "name": "The Ultralinx",
+            "desc": "This is an online web magazine by Oliur Rahman that curates high quality content from around the web. It covers everything from technology to design.",
+            "url": "http://theultralinx.com/"
+        },
+        {
+            "name": "Design Beep",
+            "desc": "This blog covers lots of topics on design and development. It includes articles, tutorials, tools, resources, freebies, and inspiration. It covers graphics, logos, typography, web design.",
+            "url": "http://designbeep.com/"
+        },
+        {
+            "name": "Line 25",
+            "desc": "A blog based around the topic of web design. It was created by Chris Spooner and is maintained by Iggy. It contains many articles to give ideas and inspiration to web creatives.",
+            "url": "https://line25.com/"
+        },
+        {
+            "name": "Dev",
+            "desc": "DEV is a community of 482,209 amazing developers. We're a place where coders share, stay up-to-date and grow their careers.",
+            "url": "https://dev.to/"
+        },
+        {
+            "name": "Alligator.IO",
+            "desc": "With a deep love and appreciation for the web platform and the JavaScript ecosystem, Alligator.io has now grown to be a major source of knowledge for anybody who's interested in modern web development.",
+            "url": "https://alligator.io/"
         }
     ]
 }
