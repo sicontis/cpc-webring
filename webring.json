@@ -94,6 +94,11 @@
             "name": "Alligator.IO",
             "desc": "With a deep love and appreciation for the web platform and the JavaScript ecosystem, Alligator.io has now grown to be a major source of knowledge for anybody who's interested in modern web development.",
             "url": "https://alligator.io/"
+        },
+        {
+            "name": "Front-End Front",
+            "desc": "Front-End Front is the effort of two brothers, Stelian and Sergiu Firez. They created a crowd curated feed of front-end related articles.",
+            "url": "https://frontendfront.com/"
         }
     ]
 }
